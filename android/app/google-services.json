@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442136338588",
+    "project_id": "uploader-702d8",
+    "storage_bucket": "uploader-702d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442136338588:android:b7d82725b385edf9378d59",
+        "android_client_info": {
+          "package_name": "com.cwd.record_and_upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442136338588-brn6qf230kcntcog6ajsh5m58aff5e57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEkhWAygtFdXxyhp2g7nCslE_CvYzkICI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442136338588-brn6qf230kcntcog6ajsh5m58aff5e57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
